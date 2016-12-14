@@ -17,7 +17,7 @@
   ],
   "require": {
     "composer/installers": "*",
-    "sheadawson/silverstripe-blocks": "1.*",
+    "sheadawson/silverstripe-blocks": "1.x"
   },
   "extra": {
     "installer-name": "blocks-accessories"
