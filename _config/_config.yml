@@ -1,0 +1,6 @@
+---
+Name: 'blocks-accessories'
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
