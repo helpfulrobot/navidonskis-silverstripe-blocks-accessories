@@ -1,0 +1,25 @@
+{
+  "name": "navidonskis/silverstripe-blocks-accessories",
+  "description": "Accessories for SilverStripe Blocks module",
+  "type": "silverstripe-module",
+  "keywords": [
+    "silverstripe",
+    "blocks",
+    "widgets",
+    "accessories"
+  ],
+  "homepage": "https://github.com/navidonskis/silverstripe-blocks-accessories",
+  "authors": [
+    {
+      "name": "Donatas Navidonskis",
+      "email": "donatas@navidonskis.com"
+    }
+  ],
+  "require": {
+    "composer/installers": "*",
+    "sheadawson/silverstripe-blocks": "1.*",
+  },
+  "extra": {
+    "installer-name": "blocks-accessories"
+  }
+}
