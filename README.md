@@ -11,4 +11,15 @@ This package are custom accessories (blocks) for [`SilverStripe Blocks`](https:/
 
 ## Installation
 
+via composer:
+```sh
+composer require navidonskis/silverstripe-blocks-accessories
+```
+via git:
+```sh
+git clone https://github.com/navidonskis/silverstripe-blocks-accessories.git
+```
+
+after that, run `dev/build` to rebuild database.
+
 ## Screenshots
